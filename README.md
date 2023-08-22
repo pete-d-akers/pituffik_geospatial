@@ -6,3 +6,5 @@ This repository holds geospatial data related to the hydrology and geomorphology
 Although four raster files are also part of the Pituffik geopackage, their files are too large for online hosting. Their data can be downloaded directly from the original data sources (cited in description file) or users can contact the Pituffik geopackage creator.
 
 The pituffik_surface_waters_geopackage.qgz is a QGIS file that references all vector and raster data layers with appropriate symbology and layer ordering.
+
+The pituffik_atlas_v1.5.pdf is a multi-page pdf containing an atlas of the hydrology and land features of the Pituffik Peninsula based off of the geospatial data in this repository.
